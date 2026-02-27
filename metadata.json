@@ -1,0 +1,21 @@
+{
+    "title": "Programming: Nested Constructs",
+    "slug": "programming-nested-constructs",
+    "description": "Language-agnostic introduction to nested programming constructs, including indentation conventions.",
+    "authors": [
+        "chris-cooling"
+    ],
+    "tags": [
+        "programming",
+        "pseudocode"
+    ],
+    "duration": 2,
+    "prerequisites": [
+        "programming-for-loops-introduction",
+        "programming-if-else-blocks"
+    ],
+    "related": [
+        "programming-nested-loops",
+        "programming-loop-control"
+    ]
+}
